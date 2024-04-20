@@ -12,7 +12,7 @@ app.use(cors({
 }));
 
 app.get("/", (req, res) => {
-    res.send("Hello PPU");
+    res.send("Hello PPU - Omar Azeez");
 })
 
 // api route
